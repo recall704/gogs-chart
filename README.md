@@ -40,3 +40,4 @@ You can use NodePort or ingress for Gogs.
 | `ingress.enable`           | enable gogs ingress                | false                   |
 | `ingress.hosts`            | gogs ingress hosts                 |  ["gogs.win7.com"]      |
 
+If you want know full config, just read the file [`values.yaml`](values.yaml).
